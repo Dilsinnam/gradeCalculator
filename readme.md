@@ -1,6 +1,7 @@
 # Grade Calculator
 
-A very simple grade calculator made with Python, as in intro to COP3502.
+A very simple grade calculator made with Python, as in intro to COP3502. 
+Syllabus grade scale has been updated as of 1/16/2024, 7:57 PM.
 
 ## Result
 
